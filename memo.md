@@ -51,7 +51,7 @@ Sáu cột mốc trên được lựa chọn do đại diện cho các thay đ�
 
 **§4. AI Log**
 
-| Việc | AI làm hay người làm? | Kiểm chứng/phán đoán lại thế nào? |
+| Việc | AI làm hay bạn làm? | Bạn kiểm chứng/phán đoán lại thế nào? |
 |---|---|---|
 | Tìm kiếm, thu thập sự kiện lịch sử và dữ liệu thị trường | AI thực hiện (Tìm kiếm và truy xuất dữ liệu báo cáo bên thứ ba) | Tác giả đối chiếu chéo các liên kết nguồn với trang chủ cập nhật (Changelog) chính thức để đảm bảo tính xác thực, loại bỏ các sự kiện không quan trọng. |
 | Thiết lập nguyên lý cốt lõi và phân tích ma trận chuyển đổi (4 forces) | Sự phối hợp giữa người làm (đưa ra định hướng khung phân tích) và AI (tổng hợp câu chữ) | Tác giả rà soát tính logic giữa hạn chế của sản phẩm cũ và ưu điểm của sản phẩm mới, đảm bảo nguyên lý phát triển tuân thủ lý thuyết. |
